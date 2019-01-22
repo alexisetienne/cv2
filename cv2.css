@@ -1,0 +1,61 @@
+
+#container {
+    width: 1000px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	justify-content: space-around;
+	border: 5px solid black;
+	background-image: url("https://archzine.fr/wp-content/uploads/2018/11/superbe-fond-d-ecran-geek-vert-chiffres-changer-son-fond-d-%C3%A9cran-ado-fond-ecran-ordinateur-stylee-original.jpeg");
+}
+img {
+	width:15%;
+}
+.items {
+	
+	background-color: #1f1f14;
+	width: 250px;
+}
+
+.items2 {
+    
+    background-color: #2e2e1f;
+
+}
+
+.items3 {
+    
+    background-color: #3d3d29;
+    width: 250px;
+}
+
+.items4 {
+
+    background-color: #4d4d33;
+    width: 250px;
+}
+
+.items5 {
+
+    background-color: #5c5c3d;
+    width: 250px;
+}
+
+.items6 {
+
+    background-color: 	 #6b6b47;
+    width: 250px;
+}
+
+.items7 {
+
+    background-color:  #7a7a52;
+    width: 250px;
+}
+
+.items8 {
+
+    background-color: #1f1f14;
+    width: 250px;
+}
